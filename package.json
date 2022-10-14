@@ -24,9 +24,15 @@
     "@nestjs/common": "^9.0.0",
     "@nestjs/core": "^9.0.0",
     "@nestjs/platform-express": "^9.0.0",
+    "@nestjs/swagger": "^6.1.2",
+    "@types/puppeteer": "^5.4.7",
+    "@types/swagger-ui": "^3.52.0",
+    "dotenv": "^16.0.3",
+    "puppeteer": "^18.2.1",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
-    "rxjs": "^7.2.0"
+    "rxjs": "^7.2.0",
+    "swagger": "^0.7.5"
   },
   "devDependencies": {
     "@nestjs/cli": "^9.0.0",
